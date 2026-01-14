@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <footer className="footer footer-horizontal footer-center bg-neutral text-neutral-content p-10">
             <aside className="space-y-3">
-                <h2 className="font-semibold text-3xl">Online Store</h2>
+                <h2 className="font-semibold text-3xl">Online Store BD</h2>
                 <p>Providing reliable products</p>
                 <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
             </aside>
