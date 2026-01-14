@@ -37,7 +37,7 @@ npm run dev
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5. Open [https://online-store-bd.vercel.app/](https://online-store-bd.vercel.app/) in your browser to see the application.
 
 ## Route Summary
 
