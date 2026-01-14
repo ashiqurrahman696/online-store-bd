@@ -1,4 +1,4 @@
-# Online Store DB
+# Online Store BD
 
 A modern e-commerce application built with Next.js that provides a complete shopping experience with product management, user authentication, and order processing.
 
